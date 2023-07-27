@@ -1,4 +1,4 @@
-Country_code,Segment,Sector,Year,Value 2 (+),Value 1 (+),Value 3 (+),Value 5 (+/-),Value 4 (+/-),Value 6 (+/-),index
+Segment_code,Segment,Sector,Year,Value 2 (+),Value 1 (+),Value 3 (+),Value 5 (+/-),Value 4 (+/-),Value 6 (+/-),index
 AT,Segment1,Sector1,01,6,0.1122,8223696,-6,-0.1122,8223696,1
 AT,Segment1,Sector1,02,8,0.0918,64573220,-8,-0.0918,-64573220,1
 AT,Segment1,Sector1,03,16,0.0918,82882182,-16,0.0918,82882182,1
