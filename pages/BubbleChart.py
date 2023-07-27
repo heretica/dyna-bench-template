@@ -26,7 +26,7 @@ def BubbleChart(df:pd.DataFrame):
         Config(
             {
                 "channels": {
-                    "color": {"set": ["Joy factors"]},
+                    "color": {"set": ["Sectors"]},
                     "size": {"set": ["Value 2 (+)"]},
                     "label": {"set": ["Country_code"]},
                 },
