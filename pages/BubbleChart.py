@@ -28,14 +28,14 @@ def BubbleChart(df:pd.DataFrame):
                 "channels": {
                     "color": {"set": ["Sector"]},
                     "size": {"set": ["Value 2 (+)"]},
-                    "label": {"set": ["Country_code"]},
+                    "label": {"set": ["Segment_code"]},
                 },
                 "title": "Bubble Chart",
                 "geometry": "circle",
             }
         )
     )
-    features = [ "Value 2 (+)","Country_code"]
+    features = [ "Value 2 (+)","Segment_code"]
     chart.animate(
         Config(
             {
